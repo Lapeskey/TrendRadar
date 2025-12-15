@@ -3680,6 +3680,7 @@ flowchart TD
     style O fill:#e1bee7
     style Q fill:#c8e6c9
 ```
+enable actions
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sansan0/TrendRadar&type=Date)](https://www.star-history.com/#sansan0/TrendRadar&Date)
 
